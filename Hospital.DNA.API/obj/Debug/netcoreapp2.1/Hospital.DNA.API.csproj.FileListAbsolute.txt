@@ -1,0 +1,14 @@
+C:\Users\marin\Documents\Sistemas\Hospital.DNA.API\Hospital.DNA.API\bin\Debug\netcoreapp2.1\Hospital.DNA.API.deps.json
+C:\Users\marin\Documents\Sistemas\Hospital.DNA.API\Hospital.DNA.API\bin\Debug\netcoreapp2.1\Hospital.DNA.API.runtimeconfig.json
+C:\Users\marin\Documents\Sistemas\Hospital.DNA.API\Hospital.DNA.API\bin\Debug\netcoreapp2.1\Hospital.DNA.API.runtimeconfig.dev.json
+C:\Users\marin\Documents\Sistemas\Hospital.DNA.API\Hospital.DNA.API\bin\Debug\netcoreapp2.1\Hospital.DNA.API.dll
+C:\Users\marin\Documents\Sistemas\Hospital.DNA.API\Hospital.DNA.API\bin\Debug\netcoreapp2.1\Hospital.DNA.API.pdb
+C:\Users\marin\Documents\Sistemas\Hospital.DNA.API\Hospital.DNA.API\obj\Debug\netcoreapp2.1\Hospital.DNA.API.csprojAssemblyReference.cache
+C:\Users\marin\Documents\Sistemas\Hospital.DNA.API\Hospital.DNA.API\obj\Debug\netcoreapp2.1\Hospital.DNA.API.csproj.CoreCompileInputs.cache
+C:\Users\marin\Documents\Sistemas\Hospital.DNA.API\Hospital.DNA.API\obj\Debug\netcoreapp2.1\Hospital.DNA.API.RazorAssemblyInfo.cache
+C:\Users\marin\Documents\Sistemas\Hospital.DNA.API\Hospital.DNA.API\obj\Debug\netcoreapp2.1\Hospital.DNA.API.RazorAssemblyInfo.cs
+C:\Users\marin\Documents\Sistemas\Hospital.DNA.API\Hospital.DNA.API\obj\Debug\netcoreapp2.1\Hospital.DNA.API.AssemblyInfoInputs.cache
+C:\Users\marin\Documents\Sistemas\Hospital.DNA.API\Hospital.DNA.API\obj\Debug\netcoreapp2.1\Hospital.DNA.API.AssemblyInfo.cs
+C:\Users\marin\Documents\Sistemas\Hospital.DNA.API\Hospital.DNA.API\obj\Debug\netcoreapp2.1\Hospital.DNA.API.RazorTargetAssemblyInfo.cache
+C:\Users\marin\Documents\Sistemas\Hospital.DNA.API\Hospital.DNA.API\obj\Debug\netcoreapp2.1\Hospital.DNA.API.dll
+C:\Users\marin\Documents\Sistemas\Hospital.DNA.API\Hospital.DNA.API\obj\Debug\netcoreapp2.1\Hospital.DNA.API.pdb
